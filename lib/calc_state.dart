@@ -12,6 +12,7 @@ abstract class _CalcState with Store {
   ContextModel cm = ContextModel();
   @observable
   late String userInput = "";
+
   // late String? ans2 = "";
 
   @observable
